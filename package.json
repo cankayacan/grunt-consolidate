@@ -1,18 +1,11 @@
 {
   "name": "grunt-consolidate",
   "description": "Use consolidate.js to apply templating to your Grunt projects",
-  "version": "0.1.0",
-  "homepage": "https://github.com/mikevercoelen/grunt-consolidate",
-  "author": {
-    "name": "Mike Vercoelen",
-    "email": "mike.vercoelen@gmail.com"
-  },
+  "version": "1.0.0",
+  "homepage": "https://github.com/cankayacan/grunt-consolidate",
   "repository": {
     "type": "git",
     "url": "git://github.com/mikevercoelen/grunt-consolidate.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mikevercoelen/grunt-consolidate/issues"
   },
   "licenses": [
     {

@@ -1,7 +1,7 @@
 # grunt-consolidate
 
   Use [Consolidate.js](https://github.com/visionmedia/consolidate.js/) for templating of files in your Grunt projects.
-  Very useful for preprocessing (build specific file content, such as: LiveReload snippet, non minified assets), 
+  Very useful for preprocessing (build specific file content, such as: LiveReload snippet, non minified assets),
   and keeping things dry in HTML, JS etc.
 
 ## Getting Started
@@ -111,3 +111,6 @@ grunt.initConfig({
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+
+
+AUTHOR: Mike Vercoelen
