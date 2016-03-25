@@ -1,7 +1,7 @@
 {
   "name": "grunt-consolidate",
   "description": "Use consolidate.js to apply templating to your Grunt projects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/cankayacan/grunt-consolidate",
   "repository": {
     "type": "git",
