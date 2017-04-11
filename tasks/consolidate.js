@@ -34,6 +34,10 @@ module.exports = function(grunt) {
       defConsOptions.ext = ext;
     }
 
+    if (typeof local === 'function') {
+      local = local();
+    }
+
     _.defaults(defConsOptions, local);
 
     var done = this.async();
